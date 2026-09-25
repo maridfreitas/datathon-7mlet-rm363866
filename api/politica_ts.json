@@ -1,0 +1,158 @@
+{
+  "jovem": {
+    "cellular_fri": {
+      "alpha": 46,
+      "beta": 226,
+      "n_pulls": 270
+    },
+    "cellular_mon": {
+      "alpha": 40,
+      "beta": 202,
+      "n_pulls": 240
+    },
+    "cellular_thu": {
+      "alpha": 67,
+      "beta": 334,
+      "n_pulls": 399
+    },
+    "cellular_tue": {
+      "alpha": 90,
+      "beta": 412,
+      "n_pulls": 500
+    },
+    "cellular_wed": {
+      "alpha": 51,
+      "beta": 275,
+      "n_pulls": 324
+    },
+    "telephone_fri": {
+      "alpha": 2,
+      "beta": 29,
+      "n_pulls": 29
+    },
+    "telephone_mon": {
+      "alpha": 1,
+      "beta": 25,
+      "n_pulls": 24
+    },
+    "telephone_thu": {
+      "alpha": 5,
+      "beta": 47,
+      "n_pulls": 50
+    },
+    "telephone_tue": {
+      "alpha": 1,
+      "beta": 25,
+      "n_pulls": 24
+    },
+    "telephone_wed": {
+      "alpha": 3,
+      "beta": 40,
+      "n_pulls": 41
+    }
+  },
+  "meio": {
+    "cellular_fri": {
+      "alpha": 42,
+      "beta": 278,
+      "n_pulls": 318
+    },
+    "cellular_mon": {
+      "alpha": 9,
+      "beta": 94,
+      "n_pulls": 101
+    },
+    "cellular_thu": {
+      "alpha": 67,
+      "beta": 385,
+      "n_pulls": 450
+    },
+    "cellular_tue": {
+      "alpha": 7,
+      "beta": 89,
+      "n_pulls": 94
+    },
+    "cellular_wed": {
+      "alpha": 32,
+      "beta": 239,
+      "n_pulls": 269
+    },
+    "telephone_fri": {
+      "alpha": 1,
+      "beta": 33,
+      "n_pulls": 32
+    },
+    "telephone_mon": {
+      "alpha": 2,
+      "beta": 45,
+      "n_pulls": 45
+    },
+    "telephone_thu": {
+      "alpha": 3,
+      "beta": 50,
+      "n_pulls": 51
+    },
+    "telephone_tue": {
+      "alpha": 5,
+      "beta": 62,
+      "n_pulls": 65
+    },
+    "telephone_wed": {
+      "alpha": 2,
+      "beta": 44,
+      "n_pulls": 44
+    }
+  },
+  "senior": {
+    "cellular_fri": {
+      "alpha": 15,
+      "beta": 84,
+      "n_pulls": 97
+    },
+    "cellular_mon": {
+      "alpha": 6,
+      "beta": 59,
+      "n_pulls": 63
+    },
+    "cellular_thu": {
+      "alpha": 68,
+      "beta": 297,
+      "n_pulls": 363
+    },
+    "cellular_tue": {
+      "alpha": 45,
+      "beta": 257,
+      "n_pulls": 300
+    },
+    "cellular_wed": {
+      "alpha": 74,
+      "beta": 387,
+      "n_pulls": 459
+    },
+    "telephone_fri": {
+      "alpha": 7,
+      "beta": 56,
+      "n_pulls": 61
+    },
+    "telephone_mon": {
+      "alpha": 2,
+      "beta": 32,
+      "n_pulls": 32
+    },
+    "telephone_thu": {
+      "alpha": 2,
+      "beta": 32,
+      "n_pulls": 32
+    },
+    "telephone_tue": {
+      "alpha": 2,
+      "beta": 33,
+      "n_pulls": 33
+    },
+    "telephone_wed": {
+      "alpha": 4,
+      "beta": 41,
+      "n_pulls": 43
+    }
+  }
+}
