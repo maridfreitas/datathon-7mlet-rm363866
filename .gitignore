@@ -2,4 +2,4 @@
 data/*.csv
 __pycache__/
 .ipynb_checkpoints/
-mlruns/
+mlruns/mlflow.db
