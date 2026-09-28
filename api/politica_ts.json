@@ -1,158 +1,158 @@
 {
   "jovem": {
     "cellular_fri": {
-      "alpha": 46,
-      "beta": 226,
-      "n_pulls": 270
+      "alpha": 12,
+      "beta": 87,
+      "n_pulls": 97
     },
     "cellular_mon": {
-      "alpha": 40,
-      "beta": 202,
-      "n_pulls": 240
+      "alpha": 58,
+      "beta": 287,
+      "n_pulls": 343
     },
     "cellular_thu": {
-      "alpha": 67,
-      "beta": 334,
-      "n_pulls": 399
+      "alpha": 41,
+      "beta": 245,
+      "n_pulls": 284
     },
     "cellular_tue": {
-      "alpha": 90,
-      "beta": 412,
-      "n_pulls": 500
+      "alpha": 109,
+      "beta": 465,
+      "n_pulls": 572
     },
     "cellular_wed": {
-      "alpha": 51,
-      "beta": 275,
-      "n_pulls": 324
+      "alpha": 56,
+      "beta": 271,
+      "n_pulls": 325
     },
     "telephone_fri": {
-      "alpha": 2,
-      "beta": 29,
-      "n_pulls": 29
-    },
-    "telephone_mon": {
       "alpha": 1,
       "beta": 25,
       "n_pulls": 24
     },
+    "telephone_mon": {
+      "alpha": 4,
+      "beta": 43,
+      "n_pulls": 45
+    },
     "telephone_thu": {
-      "alpha": 5,
-      "beta": 47,
-      "n_pulls": 50
+      "alpha": 1,
+      "beta": 26,
+      "n_pulls": 25
     },
     "telephone_tue": {
       "alpha": 1,
-      "beta": 25,
-      "n_pulls": 24
+      "beta": 21,
+      "n_pulls": 20
     },
     "telephone_wed": {
       "alpha": 3,
-      "beta": 40,
-      "n_pulls": 41
+      "beta": 35,
+      "n_pulls": 36
     }
   },
   "meio": {
     "cellular_fri": {
-      "alpha": 42,
-      "beta": 278,
-      "n_pulls": 318
+      "alpha": 11,
+      "beta": 114,
+      "n_pulls": 123
     },
     "cellular_mon": {
-      "alpha": 9,
-      "beta": 94,
-      "n_pulls": 101
+      "alpha": 18,
+      "beta": 160,
+      "n_pulls": 176
     },
     "cellular_thu": {
-      "alpha": 67,
-      "beta": 385,
-      "n_pulls": 450
+      "alpha": 22,
+      "beta": 172,
+      "n_pulls": 192
     },
     "cellular_tue": {
-      "alpha": 7,
-      "beta": 89,
-      "n_pulls": 94
+      "alpha": 19,
+      "beta": 148,
+      "n_pulls": 165
     },
     "cellular_wed": {
-      "alpha": 32,
-      "beta": 239,
-      "n_pulls": 269
+      "alpha": 73,
+      "beta": 494,
+      "n_pulls": 565
     },
     "telephone_fri": {
-      "alpha": 1,
-      "beta": 33,
-      "n_pulls": 32
-    },
-    "telephone_mon": {
-      "alpha": 2,
-      "beta": 45,
-      "n_pulls": 45
-    },
-    "telephone_thu": {
-      "alpha": 3,
-      "beta": 50,
-      "n_pulls": 51
-    },
-    "telephone_tue": {
-      "alpha": 5,
-      "beta": 62,
-      "n_pulls": 65
-    },
-    "telephone_wed": {
       "alpha": 2,
       "beta": 44,
       "n_pulls": 44
+    },
+    "telephone_mon": {
+      "alpha": 1,
+      "beta": 31,
+      "n_pulls": 30
+    },
+    "telephone_thu": {
+      "alpha": 2,
+      "beta": 37,
+      "n_pulls": 37
+    },
+    "telephone_tue": {
+      "alpha": 3,
+      "beta": 51,
+      "n_pulls": 52
+    },
+    "telephone_wed": {
+      "alpha": 6,
+      "beta": 71,
+      "n_pulls": 75
     }
   },
   "senior": {
     "cellular_fri": {
-      "alpha": 15,
-      "beta": 84,
-      "n_pulls": 97
+      "alpha": 24,
+      "beta": 134,
+      "n_pulls": 156
     },
     "cellular_mon": {
-      "alpha": 6,
-      "beta": 59,
-      "n_pulls": 63
+      "alpha": 14,
+      "beta": 112,
+      "n_pulls": 124
     },
     "cellular_thu": {
-      "alpha": 68,
-      "beta": 297,
-      "n_pulls": 363
+      "alpha": 55,
+      "beta": 289,
+      "n_pulls": 342
     },
     "cellular_tue": {
-      "alpha": 45,
-      "beta": 257,
-      "n_pulls": 300
+      "alpha": 58,
+      "beta": 292,
+      "n_pulls": 348
     },
     "cellular_wed": {
-      "alpha": 74,
-      "beta": 387,
-      "n_pulls": 459
+      "alpha": 72,
+      "beta": 334,
+      "n_pulls": 404
     },
     "telephone_fri": {
-      "alpha": 7,
-      "beta": 56,
-      "n_pulls": 61
+      "alpha": 4,
+      "beta": 45,
+      "n_pulls": 47
     },
     "telephone_mon": {
-      "alpha": 2,
-      "beta": 32,
-      "n_pulls": 32
+      "alpha": 3,
+      "beta": 37,
+      "n_pulls": 38
     },
     "telephone_thu": {
-      "alpha": 2,
-      "beta": 32,
-      "n_pulls": 32
+      "alpha": 1,
+      "beta": 21,
+      "n_pulls": 20
     },
     "telephone_tue": {
       "alpha": 2,
-      "beta": 33,
-      "n_pulls": 33
+      "beta": 31,
+      "n_pulls": 31
     },
     "telephone_wed": {
-      "alpha": 4,
-      "beta": 41,
-      "n_pulls": 43
+      "alpha": 1,
+      "beta": 23,
+      "n_pulls": 22
     }
   }
 }
